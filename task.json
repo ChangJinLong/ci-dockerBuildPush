@@ -1,5 +1,5 @@
 {
-  "atomCode": "dockerBuildPush",
+  "atomCode": "dockerBuildPushNew",
   "execution": {
     "packagePath": "dockerBuildPush.jar",
     "language": "java",
